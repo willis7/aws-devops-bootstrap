@@ -17,7 +17,7 @@ This bootsrap expects a `WebServerSG` security group to be present in your AWS c
 
 ### The Commands
 Then you can control the instance with the following:
-* To privision an EC2 instance: `vagrant up`
+* To provision an EC2 instance: `vagrant up`
 * Stop the instance: `vagrant halt`
 * Terminate the instance: `vagrant destroy`
 
